@@ -16,7 +16,7 @@ The Power Query steps utilized to clean and prepare data for the dashboard can b
 
 The database structure as seen below consists of two tables: orders and regions, with a total row count of 8,093 records.
 
-![Structure](/img/Structure.jpeg)
+![Structure](/img/Structure.png)
 
 Prior to beginnning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The steps used to perform the quality checks can be found here.
 
