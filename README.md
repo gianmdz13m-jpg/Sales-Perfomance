@@ -33,7 +33,7 @@ The PowerBi Dashboard can be accessed here.
 
 ### Sales Trends
 
-- *The Company's Sales peaked on December 2020 with 328 orders totaling  $136,067.19 monthly revenue*. This corresponds to with the world-wide boom of consumer spending in leasure activities done inside households due to the pandemic. 
+- **The Company's Sales peaked on December 2020 with 328 orders totaling  $136,067.19 monthly revenue**. This corresponds to with the world-wide boom of consumer spending in leasure activities done inside households due to the pandemic. 
 - F2
 - F3
 
