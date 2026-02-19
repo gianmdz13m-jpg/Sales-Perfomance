@@ -24,15 +24,16 @@ Prior to beginnning the analysis, a variety of checks were conducted for quality
 
 ## Overview of Findings
 
-Desc. of overall trends and kpis. As pictured below.
+After peaking on the second half of 2020, the company's sales have declined significantly, even below pre-pandemic numbers. All three Key Perfomance Indicators have shown year-over-year decreases: Total sales by 85.2%, average order value by 7.5% and ordee volume by 84%. While the rise of 2020 and the decline of 2021 can be attributed to the shift in consumers' habits during the COVID-19 pandemic, the following sections will explore additional contributing factors and highlight key areas for improvement.
+
+[IMG of KPIS] 
 
 The PowerBi Dashboard can be accessed here.
 
-[IMG]
 
 ### Sales Trends
 
-- F1
+- _The Company's Sales peaked on December 2020 with 328 orders totaling  $136,067.19 monthly revenue_. This corresponds to with the world-wide boom of consumer spending in leasure activities done inside households due to the pandemic. 
 - F2
 - F3
 
