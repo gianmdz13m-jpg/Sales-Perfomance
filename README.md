@@ -42,11 +42,10 @@ The PowerBi Dashboard can be accessed here.
 
 ### Product Perfomance:
 
-- % of the companys orders com from these products>
-- Underperforming products are
-- growth of shares if any
-- reliance of revenue from these products which have % of shares.
-- As for the order volume, the **leading products throughout all three years are the Nintendo Switch and the 24 inches 4K gaming monitor, accounting for ~50% and ~20% of sales respectively** on a monthly basis. 
+- **More than 85% of the company's orders come from three products**, the Nintendo Switch, the 24 inches 4k gaming monitor and the JBL Quantum Gaming Headset. Which accounted for $130.5K in revenue in 2021, 61% of the company's total.
+- The underperforming product is the Acer Nitro V Gaming Laptop, contributing to less than 1% in total orders despite being, on average, $300 cheaper than the Lenovo Ideapad Gaming 3 Laptop.
+- As for the share of orders, the **leading products throughout all three years are the Nintendo Switch and the 24 inches 4K gaming monitor, accounting for ~50% and ~20% of sales respectively** on a monthly basis. 
+- The company is reliant on the renue provided by three products, the 24 inches 4k gaming monitor, the Nintendo Switch and the Sony Playstation 5 bundle. All of which accounted for **85% of the total revenue of 2021.** However, the PS5 bundle registered only 4.7% of orders.
 
 [IMG]
 
