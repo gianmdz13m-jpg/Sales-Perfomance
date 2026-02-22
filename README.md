@@ -8,7 +8,7 @@ Insights and recommendations are provided on the following key areas:
 - Marketing Channels Comparison: An Evaluation of sales and orders by marketing channel.
 - Regional Comparison: An Evaluation of sales and orders by region.
 
-An interactive PowerBI dashboard can be viewed here.
+An interactive PowerBI dashboard can be viewed [here](https://app.powerbi.com/view?r=eyJrIjoiMTc5YTM0NDktOTMyOS00NjU0LWFhODQtY2JiMWZlNDZlOTNjIiwidCI6ImU0NmQzODYyLTg1OTUtNDVkMS05YjY5LTYzMDc5OGQ4OTAyZCIsImMiOjR9).
 
 The Power Query steps utilized to clean and prepare data for the dashboard can be found here.
 
