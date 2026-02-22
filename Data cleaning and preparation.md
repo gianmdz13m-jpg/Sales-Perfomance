@@ -8,4 +8,4 @@ The final step consisted of resolving the identified issues using Power Query. H
 
 The table below summarizes the issues identified and the corresponding resolutions applied.
 
-[IMG]
+![Data](/img/Data Cleaning.png)
