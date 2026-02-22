@@ -18,7 +18,7 @@ The database structure as seen below consists of two tables: orders and regions,
 
 ![Structure](/img/Structure.png)
 
-Prior to beginning the analysis, several quality control checks were performed to ensure data integrity and familiarize myself with the dataset. The steps used to perform the quality checks can be found [here](/Data cleaning and preparation.md).
+Prior to beginning the analysis, several quality control checks were performed to ensure data integrity and familiarize myself with the dataset. The steps used to perform the quality checks can be found [here](Data%20cleaning%20and%20preparation.md).
 
 # Executive Summary
 
