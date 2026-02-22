@@ -1,4 +1,4 @@
-# Project Background
+ # Project Background
 This project was done using a synthetic dataset of a fictional online videogame store that saw an increase in revenue during the pandemic year of 2020. The aim is to analyze this data to uncover insights that would improve the company's commercial success.
 
 Insights and recommendations are provided on the following key areas:
@@ -33,7 +33,7 @@ The PowerBi Dashboard can be accessed here.
 
 ### Sales Trends
 
-- **The Company's Sales peaked on December 2020 with 328 orders totaling  $136,067.19 monthly revenue.** This corresponds to with the world-wide boom of consumer spending in leasure activities done inside households due to the pandemic. 
+- **The Company's Sales peaked on December 2020 with 394 orders totaling  $136,067.19 monthly revenue.** This corresponds to with the world-wide boom of consumer spending in leasure activities done inside households due to the pandemic. 
 - As soon as 2021 started, **revenue declined on a year over year basis throughout the period.** So much so that it reached the company lifetime low in March 2021, with earnigs just over $11.6K. In the following months, while there was a slight recovery, the earning were still below even pre-pandemic numbers.  
 - Average order value saw, in some months, a year-over-year increase, with a **lifetime high in June 2021 of $405,65 per order.** Driven primarily by high ticket products such as the Sony Playstation Bundle and the 24 inches 4K gaming monitor. 
 - As for the order volume, there was a significant decrease throughout 2021, with a **lifetime low in April 2021 with just 46 orders.** 
@@ -59,9 +59,8 @@ The PowerBi Dashboard can be accessed here.
 
 ### Regions:
 
-- Region grew in importance, increasing revenue share by % 
-- Sales fell across all regions in 2021, Region remains the largest with this much difference above the lowest performer
-- Other significant increases 
+- While North America has kept having the bigger share, with 44% of the total revenue and 50% of order share, EMEA (Europe, the Middle East, and Africa) and APAC (Asia-Pacific) have achieved bigger renevues on the months from March up to June 2021 due to large ticket products such as the 24 inches 4K Gaming Monitor and the Playstation 5 Bundle.
+- After 2020, **all regions except APAC saw a decrease in average order value, with the biggest downfall being in North America by 14%.** The difference between APAC ($368.29) and NA ($264.23) being of 28%.
 
 [IMG]
 
