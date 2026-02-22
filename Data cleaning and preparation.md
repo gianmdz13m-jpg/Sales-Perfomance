@@ -1,4 +1,4 @@
-# Data Cleaning
+# Data Cleaning and Preparation
 
 The first step was to identify and understand the key metrics in order to prioritize which columns required cleaning. The primary metric is USD_PRICE, as it represents the core financial value of the dataset. This is followed by PURCHASE_TS, which serves as the time dimension, and PRODUCT_NAME, MARKETING_CHANNEL, and COUNTRY_CODE, which provide important contextual dimensions.
 
