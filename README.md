@@ -26,9 +26,9 @@ Prior to beginning the analysis, several quality control checks were performed t
 
 After peaking in the second half of 2020, the company's sales have declined significantly, even below pre-pandemic numbers. All three Key Performance Indicators have shown year-over-year decreases: Total sales by 85.2%, average order value by 7.5% and order volume by 84%. While the rise of 2020 and the decline of 2021 can be attributed to the shift in consumers' habits during the COVID-19 pandemic, the following sections will explore additional contributing factors and highlight key areas for improvement.
 
-[IMG of KPIS] 
+Below are the main metrics from the PowerBI dashboard, with more examples included throughout the report.
 
-The PowerBi Dashboard can be accessed here.
+![KPIS] (/img/InitialKPIS)
 
 
 ### Sales Trends
