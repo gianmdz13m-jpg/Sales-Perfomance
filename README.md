@@ -38,7 +38,7 @@ Below are the main metrics from the PowerBI dashboard, with more examples includ
 - Average Order Value (AOV) saw intermittent year-over-year increases, with a **lifetime high in June 2021 of $405.65 per order.** Driven primarily by high ticket products such as the Sony Playstation Bundle and the 24-inch 4K gaming monitor. 
 - As for the order volume, there was a significant decrease throughout 2021, with a **lifetime low of 46 orders in April 2021.** 
 
-[IMG]
+![Trends](/img/Sales20%Trends.png)
 
 ### Product Perfomance:
 
@@ -47,7 +47,7 @@ Below are the main metrics from the PowerBI dashboard, with more examples includ
 - As for the share of orders, the **leading products throughout all three years are the Nintendo Switch and the 24-inch 4K gaming monitor, accounting for ~50% and ~20% of sales respectively** on a monthly basis. 
 - The company is reliant on the revenue provided by three products, the 24-inch 4k gaming monitor, the Nintendo Switch and the Sony Playstation 5 bundle. All of which accounted for **85% of the total revenue of 2021.** However, the PS5 bundle registered only 4.7% of orders.
 
-[IMG]
+![Product](/img/Product20%Perf.png)
 
 ### Marketing Channels:
 
@@ -55,14 +55,14 @@ Below are the main metrics from the PowerBI dashboard, with more examples includ
 - While sales across all channels follow the same downward trend, the average order value increased in 2021 for the affiliate and email channels. With affiliate having achieved an **AOV of $564.89, 70% above social media, the lowest performer.**
 - Despite having a good performance in the previous metric, the affiliate channel accounts for only 1.5% of total orders, the same as social media, suggesting it is primarily associated with high-ticket products.
 
-[IMG]
+![MKT](/img/Marketing.png)
 
 ### Regions:
 
 - While North America continues to hold the largest share, with 44% of the total revenue and 50% of order share, EMEA (Europe, the Middle East, and Africa) and APAC (Asia-Pacific) outperformed North America in revenue on the months from March up to June 2021 due to large ticket products such as the 24-inch 4K Gaming Monitor and the Playstation 5 Bundle.
 - After 2020, **all regions except APAC saw a decrease in average order value, with North America having largest decline by 14%.** The difference between APAC ($368.29) and NA ($264.23) being of 28%.
 
-[IMG]
+![Regions](/img/Regions.png)
 
 ## Recommendations
 
