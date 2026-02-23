@@ -28,7 +28,7 @@ After peaking in the second half of 2020, the company's sales have declined sign
 
 Below are the main metrics from the PowerBI dashboard, with more examples included throughout the report.
 
-![KPIS] (/img/InitialKPIS)
+![KPIS](/img/InitialKPIS.png).
 
 
 ### Sales Trends
